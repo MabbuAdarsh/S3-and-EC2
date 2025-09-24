@@ -35,7 +35,7 @@ Connect to your Instance:
 <img width="1152" height="635" alt="image" src="https://github.com/user-attachments/assets/932bd786-df15-4c2d-9bf9-a9d14229c21d" />
 
  # RESULT
-The AWS account was successfully created, with set up for the root user . Additionally, an IAM user was created with specified permissions, allowing for secure, controlled access to AWS resources without the use of the root account.
+The AWS account was successfully created, with set up for the root user . Additionally, an IAM user was created with specified permissions, allowing for secure, controlled access to AWS resources without the use of the root account..
 
 
 
